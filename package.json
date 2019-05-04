@@ -1,0 +1,16 @@
+{
+  "name": "node-wol-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WOLService.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "wol": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Novotny",
+  "license": "ISC"
+}
